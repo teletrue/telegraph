@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         YT Downloader
-// @namespace    https://up.mewf.ru/
+// @name         Downloader
+// @namespace    https://www.youtube.com/channel/UCuxYn-hgUOe7EZbINy_SP8w
 // @version      0.1
 // @description  downloads videos via savefrom.net
 // @author       MewForest
