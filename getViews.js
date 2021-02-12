@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Telegraph Views
 // @namespace    https://www.youtube.com/channel/UCuxYn-hgUOe7EZbINy_SP8w
-// @version      0.1
+// @version      0.2
 // @description  Show amount of views on Telegraph pages
 // @author       gcontent
 // @match        https://*.telegra.ph/*
